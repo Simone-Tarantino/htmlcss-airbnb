@@ -14,3 +14,9 @@ body {
   width: 360px;
   margin-bottom: 10px;
 }
+
+.box1 {
+  background-image: url('../img/rome.jpg');
+  background-position: center;
+  background-size: cover;
+}
