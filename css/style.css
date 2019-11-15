@@ -21,8 +21,35 @@ body {
   background-position: center;
   background-size: cover;
 }
-
 .box1 span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 30px;
+  color: white;
+}
+
+.box2 {
+  background-image: url('../img/copenhagen.jpg');
+  background-position: center;
+  background-size: cover;
+}
+.box2 span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 30px;
+  color: white;
+}
+
+.box3 {
+  background-image: url('../img/tokyo.jpg');
+  background-position: center;
+  background-size: cover;
+}
+.box3 span {
   position: absolute;
   top: 50%;
   left: 50%;
